@@ -1,7 +1,7 @@
 array = [1,2,3]
 def square_array(array)
   
-    array.collect {|numbers| num + 1}
+    array.collect {|num| num + 1}
     
       
     
